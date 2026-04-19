@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+logs/*.log
+logs/*.json
+logs/ohlcv/*.json
+logs/export.csv
+mobile_url.txt
+ngrok_qr.png
+*.db
+tmp*
+.ngrok-bin/ngrok.exe
