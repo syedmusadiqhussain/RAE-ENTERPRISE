@@ -12,6 +12,12 @@ RAE ENTERPRISE is a real-time crypto monitoring and alerting suite that bridges 
 
 ---
 
+## Screenshots
+
+![RAE ENTERPRISE Dashboard Overview](assets/screenshots/dashboard-overview.png)
+
+![RAE ENTERPRISE Live Chart](assets/screenshots/dashboard-chart.png)
+
 ## System Architecture
 
 This repo (RAE-ENTERPRISE) connects three layers:
